@@ -1,4 +1,4 @@
-package Thread_Head_First.concurrency_issues;
+package Thread_Head_First.concurrency_solution;
 
 class BankAccount {
     private int balance = 100;
